@@ -1,6 +1,6 @@
 # api.mku.wtf
 
-## **Class Structure with `Integer` IDs**
+## **Class Structure**
 
 ### **Entities (Data Models)**
 
